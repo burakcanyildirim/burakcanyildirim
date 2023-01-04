@@ -5,7 +5,7 @@
 
 - This is the website I developed with Flutter. [My Flutter Apps](https://burakcanyildirim.github.io/)
 
-- [Patiekip]([https://burakcanyildirim.github.io/](https://patiekip.github.io)
+- [Patiekip](https://patiekip.github.io)
 
 
 - 🌱 **Flutter** Developer
