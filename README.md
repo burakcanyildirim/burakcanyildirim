@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakcanyildirim&label=Profile%20views&color=0e75b6&style=flat" alt="burakcanyildirim" /> </p>
 
-- This is the website I developed with Flutter. [My Flutter Apps](https://burakcanyildirim.github.io/)
+- I developed with Flutter: [My Flutter Apps](https://burakcanyildirim.github.io/)
 
 - [Patiekip](https://patiekip.github.io)
 
